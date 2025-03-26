@@ -1,4 +1,4 @@
-# Conway's Game of Life Simulation
+# Conway's Game of Life Simulation - Python
 
 This repository contains the implementation of Conway's Game of Life, a cellular automaton devised by the British mathematician John Conway. The program simulates the evolution of cells on a grid where each cell can either be alive or dead, and its future state is determined by the number of live neighbors it has.
 
